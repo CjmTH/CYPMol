@@ -15,4 +15,4 @@ Substrate: xxx
 
 Inhibitor: xxx
 
-BoM: xxx
+BoM: https://huggingface.co/CJM1111/CYPMOl/tree/main/BoM
