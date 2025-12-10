@@ -11,8 +11,8 @@ The raw data and training scripts for the Substrate, Inhibitor, and BoM tasks ar
 ## testing
 The input file formats required for CYPMol across different tasks can be found in the corresponding example.csv files within each task directory. The model weight files for each task are provided as follows:
 
-Substrate: xxx
+Substrate: https://huggingface.co/CJM1111/CYPMOl/tree/main/Substrate
 
-Inhibitor: xxx
+Inhibitor: https://huggingface.co/CJM1111/CYPMOl/tree/main/Inhibitor
 
 BoM: https://huggingface.co/CJM1111/CYPMOl/tree/main/BoM
